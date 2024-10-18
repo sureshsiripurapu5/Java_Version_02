@@ -1,0 +1,20 @@
+void  main()
+      {
+	char colour[8];  // string
+
+	clrscr();
+	printf("Enter your favourite colour?");
+	scanf("%s",colour);
+	printf("%s",colour);
+       /*	switch(colour)
+	{
+	  case 4.5:
+		    printf("too short");
+		    break;
+	  case 7.2:
+		   printf("too much height");
+		   break;
+
+	 } */
+       getch();
+      }
